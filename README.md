@@ -183,103 +183,91 @@
 </head>
 <body>
 
-  <h2>Pearls Menu</h2>
+  <h2>Snr. Buns Menu</h2>
 
   <form id="menuForm">
-  <h3>Coffee Deals</h3>
+  <h3>Mains</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="1500"> 30 Macchiato - $1,500
+      <input type="checkbox" class="menu-item" data-price="100"> Snr Burger - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="3000"> 60 Macchiato - $3,000
+      <input type="checkbox" class="menu-item" data-price="100"> Snr Double Burger - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="6000"> 90 Macchiato - $6,000
+      <input type="checkbox" class="menu-item" data-price="100"> Chicken Kebab Wrap - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="100"> Steak Kebab Wrap - $100
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
 
 	
 
 	
 	
-		<h3>Foodies</h3>
+		<h3>Sides</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Crab Cakes $150
+      <input type="checkbox" class="menu-item" data-price="150"> Snr Fries $150
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Shrimp Nachos $150
+      <input type="checkbox" class="menu-item" data-price="150"> Snr Donuts $150
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Seafood Boil $200
+      <input type="checkbox" class="menu-item" data-price="200"> Blueberry Muffin $200
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Eggs Florentine $200
+      <input type="checkbox" class="menu-item" data-price="200"> Chocolate Chip Muffin $200
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+	
+	<h2> Soda </h2>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="100"> Soda $100
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+	
+	
+	<h2>Combos</h2>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="3000"> Snr Single  $3000
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Lemon Bars $100
+      <input type="checkbox" class="menu-item" data-price="1750"> Kebab $1750
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Fried Ice Cream $100
+      <input type="checkbox" class="menu-item" data-price="2000"> Snr Double $2000
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Red Velvet Cookies $100
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Chocolate Torte $100
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Seafood Platter $7500
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Pearls Breakfast $3000
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Dessert Box $1500
+      <input type="checkbox" class="menu-item" data-price="1500"> Breakfast $1500
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
+
 	
-	<h3>Drinks</h3>
+	<h3>Coffee</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Lemonade $100
+      <input type="checkbox" class="menu-item" data-price="1500"> 30 for $1500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Matcha Latte $100
+      <input type="checkbox" class="menu-item" data-price="3000"> 60 for $3000
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Caramel Macchiate $1100
+      <input type="checkbox" class="menu-item" data-price="4500"> 90 for $4500
       <input type="number" class="quantity" value="1" min="1">
     </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Blimey Limey $100
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Pina Colada $100
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Watermelon Mojito $100
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Blueberry Bliss $100
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
+
 
 
 	

@@ -211,27 +211,44 @@
 	
 		<h3>Sides</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="150"> Snr Fries $150
+      <input type="checkbox" class="menu-item" data-price="75"> Snr Fries $75
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="150"> Snr Donuts $150
+      <input type="checkbox" class="menu-item" data-price="75"> Snr Donuts $75
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Blueberry Muffin $200
+      <input type="checkbox" class="menu-item" data-price="75"> Blueberry Muffin $75
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Chocolate Chip Muffin $200
+      <input type="checkbox" class="menu-item" data-price="75"> Chocolate Chip Muffin $75
       <input type="number" class="quantity" value="1" min="1">
     </label>
 	
 	<h2> Soda </h2>
     <label>
-      <input type="checkbox" class="menu-item" data-price="100"> Soda $100
+      <input type="checkbox" class="menu-item" data-price="50"> Soda $50
       <input type="number" class="quantity" value="1" min="1">
     </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Chery Slushie $75
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Pinapple Slushie $75
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Lemon Slushie $75
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Blueberry Bliss Slushie $75
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
 	
 	
 	<h2>Combos</h2>
